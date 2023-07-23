@@ -12,8 +12,9 @@ BMI Calculator is a mobile application developed using Flutter that allows users
 2. The app will display your BMI and its classification.
 
 ## Screenshots
-https://raw.githubusercontent.com/karimsaqer/Calculate-BMI/main/assets/Screenshot.png
-https://raw.githubusercontent.com/karimsaqer/Calculate-BMI/main/assets/Screenshot2.png
+![Screenshot](https://github.com/karimsaqer/Calculate-BMI/assets/92232949/46a64090-298f-4751-928e-8036a63718a9)
+![Screenshot2](https://github.com/karimsaqer/Calculate-BMI/assets/92232949/a4ec7b57-5fd3-4687-9ed9-517853dd24eb)
+
 
 ## Getting Started
 Follow these steps to set up the project and run the app on your local machine:
