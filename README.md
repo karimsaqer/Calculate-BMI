@@ -23,6 +23,6 @@ Follow these steps to set up the project and run the app on your local machine:
 
 
 ## Contact
-If you have any questions or inquiries, please feel free to contact us at [kareemsaqer1@example.com].
+If you have any questions or inquiries, please feel free to contact us at [kareemsaqer1@gmail.com].
 
 Happy calculating! 🚀💪
